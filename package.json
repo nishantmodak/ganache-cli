@@ -18,7 +18,7 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "ganache-core": "2.0.2",
+    "ganache-core": "git://github.com/trufflesuite/ganache-core.git#beab220",
     "yargs": "^7.0.2"
   },
   "repository": {
